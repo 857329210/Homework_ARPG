@@ -3,4 +3,4 @@
 
 https://www.bilibili.com/video/BV1Sg411w7c6
 
-![image](https://github.com/857329210/Homework_ARPG/image/sketch.png)
+![image](https://github.com/857329210/Homework_ARPG/blob/main/image/sketch.png)
